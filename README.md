@@ -1,7 +1,7 @@
 # Picture-Block-Chain
 
-A Linked List is a dynamic linear structure designed to hold any type of data. In this exercise, we develop and use a linked list to manipulate blocks of pixels from an image.
-We have broken the image below into 9 Blocks.
+A Linked List is a dynamic linear structure designed to hold any type of data. In this project, a linked list is developed and used to manipulate blocks of pixels from an image.
+The image below has been broken into 9 Blocks.
 
 ![Screen Shot 2023-01-03 at 10 26 20 PM](https://user-images.githubusercontent.com/119923836/210496570-79259790-6ca4-466b-a2bf-7a6ce9c4699c.png)
 
